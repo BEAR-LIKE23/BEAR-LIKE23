@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BEAR-LIKE23
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data science and Analytics 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mayowamichael1999@gmail.com
